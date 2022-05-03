@@ -24,4 +24,4 @@ Hope you guys understand what is linear regression. Make sure you know intuition
  <img src="https://github.com/KishanMishra1/Datasets-Here/blob/main/WhatsApp%20Image%202022-05-03%20at%203.59.38%20PM.jpeg?raw=true">
  
  
- Hope the intuition of linear regression is quite clear to you , access the jupyter notebook for its practical implementation.
+ Hope the intuition behind linear regression is quite clear to you , access the jupyter notebook for its practical implementation.
