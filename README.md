@@ -7,3 +7,5 @@ Almost everything coming out of the technology world these days seems to have an
 So here is a repository consisting, all the Machine Learning algorithm's practical implementations.
 
 Keep Learning !
+
+Start from aBefore_you_start folder for better flow ..
